@@ -59,6 +59,24 @@ How agents interact with the world:
 - Code Execution
 - Web Browsing
 
+## 📂 Repository Structure
+
+```
+Agentic-AI-for-Beginners/
+│
+├── README.md                         # Main repository overview
+├── docs/
+│   ├── glossary.md                   # Comprehensive glossary of Agentic AI terms
+│   ├── learning_roadmap.md           # Structured learning path from beginner to advanced
+│   ├── react_pattern.md              # Detailed guide to the ReAct pattern
+│   └── lecture_notes/                # Notes from educational sessions
+│       └── agentic_ai_fundamentals.md # Fundamentals of Agentic AI
+├── examples/
+│   └── simple_agent.py               # Python code for a basic agentic AI implementation
+└── tutorials/
+    └── building_your_first_agent.md  # Step-by-step tutorial to build your first agent
+```
+
 ## 💻 Getting Started
 
 ```bash
@@ -112,6 +130,14 @@ graph TD
     E --> F[Multi-agent Systems]
     F --> G[Advanced Applications]
 ```
+
+## 📚 Key Documents
+
+- [📘 Lecture Notes on Agentic AI Fundamentals](docs/lecture_notes/agentic_ai_fundamentals.md)
+- [🔄 Understanding the ReAct Pattern](docs/react_pattern.md)
+- [📕 Complete Agentic AI Glossary](docs/glossary.md)
+- [🗺️ Learning Roadmap](docs/learning_roadmap.md)
+- [👨‍💻 Building Your First Agent Tutorial](tutorials/building_your_first_agent.md)
 
 ## 👥 Community & Support
 
